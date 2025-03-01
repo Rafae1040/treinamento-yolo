@@ -46,35 +46,7 @@ results[0].show()
 
 🔍 O YOLOv8 retorna os objetos detectados na imagem, desenhando caixas delimitadoras (**bounding boxes**) ao redor de cada objeto identificado.
 
-### **5️⃣ Salvar a Imagem Processada**
-💾 Depois da detecção, podemos salvar a imagem com os resultados:
 
-#### 🔹 **Salvar localmente no Colab**
-```python
-results[0].save(filename="resultado.jpg")
-```
-
-📁 A imagem será salva na pasta principal do Colab (`/content/resultado.jpg`).
-
-#### 🔹 **Baixar a imagem para o seu computador**
-Caso queira baixar a imagem diretamente para o seu dispositivo:
-```python
-from google.colab import files
-files.download("resultado.jpg")
-```
-
-#### 🔹 **Salvar no Google Drive**
-Se preferir salvar a imagem no **Google Drive**, conecte sua conta e especifique o caminho:
-```python
-from google.colab import drive
-drive.mount('/content/drive')  # Conectar ao Google Drive
-
-# Salvar no Google Drive
-results[0].save(filename="/content/drive/MyDrive/resultado.jpg")
-```
-🗂️ Agora, a imagem estará acessível na pasta **Meu Drive**.
-
----
 
 ## 🎯 **Conclusão e Possíveis Melhorias**
 
