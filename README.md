@@ -89,16 +89,5 @@ Inicialmente, tive dificuldades para rodar a detecção de objetos devido a limi
 
 Essas estratégias permitiram que eu conseguisse executar o projeto mesmo com limitações de hardware. 💡
 
-### **✨ O que pode ser feito para melhorar?**
-1. 🏆 **Aprimorar a Precisão**: Usar modelos maiores, como YOLOv8m ou YOLOv8l, para melhorar a qualidade das detecções (requer mais recursos computacionais).
-2. 📊 **Treinamento Personalizado**: Criar um dataset próprio e treinar o modelo para detectar objetos específicos.
-3. 🎨 **Aprimorar a Visualização**: Adicionar legendas e aumentar a espessura das caixas delimitadoras para melhor compreensão.
-4. 🎥 **Uso em Tempo Real**: Implementar detecção em vídeos ou com webcam.
 
-### **🚀 Conclusão Final**
-- ⚡ O YOLOv8 oferece uma forma rápida e eficiente de realizar detecção de objetos.
-- 🖥️ Mesmo sem uma GPU, é possível rodar inferência no Google Colab.
-- 🔥 Com algumas melhorias, esse projeto pode ser adaptado para diversas aplicações, como monitoramento, reconhecimento automático de objetos e muito mais.
-
-🚀 **Agora é só testar com suas próprias imagens e explorar novas possibilidades!**
 
