@@ -61,5 +61,33 @@ Inicialmente, tive dificuldades para rodar a detecção de objetos devido a limi
 
 Essas estratégias permitiram que eu conseguisse executar o projeto mesmo com limitações de hardware. 💡
 
+## Possibilidades de Resolução de Negócios
+
+### **1️⃣  Gestão de Estoque Automatizada**
+Contagem automática de produtos: Utilização de câmeras e modelos YOLO para contar itens em prateleiras ou esteiras transportadoras, eliminando erros humanos e atualizando o estoque em tempo real.
+
+Detecção de discrepâncias: Identificação de itens faltantes, em excesso ou fora do lugar, com alertas automáticos para correções.
+
+Otimização de espaço: Análise da disposição de produtos para maximizar o uso do armazém e reduzir custos com espaço.
+
+### **2️⃣ Rastreabilidade em Tempo Real**
+Identificação de produtos: Uso de códigos de barras, QR codes ou reconhecimento visual para rastrear produtos em todas as etapas do processo logístico.
+
+Monitoramento de movimentações: Rastreamento de paletes, caixas e veículos dentro do armazém, com registro automático de entradas, saídas e transferências.
+
+Histórico completo: Geração de relatórios detalhados sobre o caminho percorrido por cada produto, desde o recebimento até a expedição.
+
+### **3️⃣ Detecção de Problemas e Segurança**
+Inspeção de qualidade: Identificação automática de produtos danificados ou embalagens comprometidas durante o transporte ou armazenamento.
+
+Monitoramento de segurança: Detecção de situações de risco, como empilhamento inadequado de paletes ou obstruções em corredores.
+
+Acesso controlado: Uso de câmeras para monitorar áreas restritas e evitar acessos não autorizados.
+
+### **4️⃣ Integração com Sistemas Existentes**
+Conectividade com WMS/ERP: Integração dos dados de visão computacional com sistemas de gestão de armazéns (WMS) ou planejamento de recursos empresariais (ERP) para decisões mais ágeis e precisas.
+
+Dashboards intuitivos: Visualização de métricas como níveis de estoque, eficiência operacional e alertas em tempo real.
+
 
 
